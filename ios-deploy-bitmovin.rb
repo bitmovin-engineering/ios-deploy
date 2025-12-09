@@ -1,4 +1,4 @@
-class IosDeploy < Formula
+class IosDeployBitmovin < Formula
   desc "Install and debug iPhone apps from the command-line (Bitmovin fork)"
   homepage "https://github.com/bitmovin-engineering/ios-deploy"
   head "https://github.com/bitmovin-engineering/ios-deploy.git", branch: "feature/add-brew-formula-file"
